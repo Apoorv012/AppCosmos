@@ -16,19 +16,18 @@ This repository is part of **OpenCode ’25**, a month-long open-source program 
 
 ## 📑 Table of Contents
 
-- About the Project
-- Getting Started
-- Prerequisites
-- Understanding Issue Types
-- How to Contribute
-- Design Requirements
-- File Formats & Structure
-- Pull Request Guidelines
-- Rules & Important Notes
-- Design Guidelines
-- Getting Help
-- Resources
-- FAQ
+- [About the Project](#-about-the-project)
+- [Getting Started](#-getting-started)
+- [Prerequisites](#-prerequisites)
+- [Understanding Issue Types](#-understanding-issue-types)
+- [How to Contribute](#-how-to-contribute)
+- [File Formats & Structure](#-file-formats--structure)
+- [Pull Request Guidelines](#-pull-request-guidelines)
+- [Rules & Important Notes](#-rules--important-notes)
+- [Design Guidelines](#-design-guidelines)
+- [Getting Help](#-getting-help)
+- [Resources](#-resources)
+- [FAQ](#-faq)
 
 ---
 
@@ -47,9 +46,8 @@ You will gain hands-on experience with:
 - Interactive prototypes
 - App-first UX thinking
 
-This repository contributes to **OpenCode ’25**, where you earn points for completing design challenges. These points count toward the **OpenCode leaderboard**, helping you win exciting rewards.
-
-Note: Try to maintain a single figma file for tasks of this particular repository. The complete theme of the app i.e theme of all the pages you are designing must be same.
+> **Note:** Try to maintain a single Figma file for tasks of this repository.  
+> The complete theme of the app (all pages you design) must remain consistent.
 
 ---
 
@@ -57,20 +55,17 @@ Note: Try to maintain a single figma file for tasks of this particular repositor
 
 ### 🔐 Registration (MANDATORY)
 
-1. **Register on Unstop** for OpenCode ’25
-2. **Register at** https://events.geekhaven.in/ (required for leaderboard points)
-3. **Join the OpenCode Discord server** (mandatory for updates & mentor support)
-4. **Watch this repository** on GitHub to stay updated on new issues
+1. Register on **Unstop** for OpenCode ’25  
+2. Register at https://events.geekhaven.in/  
+3. Join the **OpenCode Discord server** (mandatory for updates & mentor support)  
+4. Watch this repository on GitHub  
 
 ---
 
 ### 🍴 Fork & Clone
 
-1. **Fork this repository** to your GitHub account
-2. **Clone your fork locally**:
-
 ```bash
-gitclone https://github.com/opencodeiiita/AppCosmos.git
+git clone https://github.com/opencodeiiita/AppCosmos.git
 cd AppCosmos
 ```
 
